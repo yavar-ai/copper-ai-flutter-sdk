@@ -1,3 +1,5 @@
+import 'dart:nativewrappers/_internal/vm/lib/core_patch.dart';
+
 import 'package:copper_ai_flutter_sdk/copper_ai_flutter_sdk.dart';
 import 'package:flutter/material.dart';
 
@@ -32,8 +34,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: const Center(
         child: CopperAiBot(
-          url:
-              "https://ai-agent.yavar.ai/?bot_id=4e3c35c1-259c-4aae-a954-1a66c6a0544e&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0ZTNjMzVjMS0yNTljLTRhYWUtYTk1NC0xYTY2YzZhMDU0NGUiLCJhY2Nlc3NfdG9rZW5faWQiOiIzMGJhNzhlMi0wZTJlLTQ5MjktODQyNy00YWRhNzYzMGI5Y2MifQ.ghiCK1aksxn6ja9B6-wBEIQFVQMz7vzoRXRIOtIRqtQ",
+          url: "botUrlHere...",
           child: Text(
             "Tap here",
             style: TextStyle(color: Colors.white, fontSize: 20),
