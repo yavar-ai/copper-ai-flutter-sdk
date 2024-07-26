@@ -18,7 +18,7 @@ To use the `copper_ai_flutter_sdk` package in your Flutter project, follow these
 
    ```yaml
    dependencies:
-     copper_ai_flutter_sdk: ^1.0.0
+     copper_ai_flutter_sdk: ^0.0.2
    ```
 
 2. **Install Packages**:
