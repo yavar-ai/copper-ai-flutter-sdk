@@ -1,7 +1,6 @@
 name: copper_ai_flutter_sdk
 description: "A Copper AI Bot."
 version: 0.0.1
-homepage:
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
