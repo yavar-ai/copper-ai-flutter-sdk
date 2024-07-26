@@ -1,5 +1,3 @@
-import 'dart:nativewrappers/_internal/vm/lib/core_patch.dart';
-
 import 'package:copper_ai_flutter_sdk/copper_ai_flutter_sdk.dart';
 import 'package:flutter/material.dart';
 
